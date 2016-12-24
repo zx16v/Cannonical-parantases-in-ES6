@@ -1,4 +1,5 @@
 # Cannonical-parantases-in-ES6
+goto https://raw.githubusercontent.com/zx16v/Cannonical-parantases-in-ES6/master/README.md
 
 The program flow:
 1) creat a Map object to hold  the right brackets as a key and left brackets as value.
